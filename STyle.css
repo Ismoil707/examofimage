@@ -1,0 +1,116 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    width: 96px;
+    height: 21px;
+}
+
+.b{
+    border-radius: 8px;
+    width: 189px;
+    height: 47px;
+
+}
+
+.b:active{
+    color: red;
+    border: 3px solid red;
+}
+.case{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-image: url('./image\ 4\ \(3\).png');
+    margin-top: 50px;
+    background-repeat: no-repeat;
+}
+.rg{
+width: 500px;
+height: 178px;
+}
+.rf{
+    width: 423px;
+    height: 482px;
+}
+.s{
+    color: white;
+    background-color: red;
+    border-radius: 8px;
+    width: 189px;
+    height: 47px;
+}
+.h{
+    margin: auto;
+    width: 193px;
+    height: 23px;
+    font-size: 36px;
+    font-weight: 700;
+    margin-top: 68px;
+}
+.cs{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 75px;
+}
+.sc{
+    width: 200px;
+    height: 200px;
+}
+.gr{
+    width: 600px;
+    height: 149px;
+}
+.siu{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 75px;
+}
+
+.uu{
+    width: 200px;
+    height: 200px;
+}
+
+.iu{
+    width: 600px;
+    height: 149px;
+}
+
+.cox{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 75px;
+}
+iframe,.sec{
+    width: 531px;
+height: 331px;
+}
+.box{
+    background-image: url('./cta.png');
+    background-repeat: no-repeat;
+}
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    margin-top: 15px;
+}
+nav{
+    width: 375px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
